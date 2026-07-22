@@ -114,8 +114,9 @@ focus_areas:
 
 <br/><br/>
 
-<a href="https://github.com/agungwa?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fagungwa&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white&color=181717" /></a>
+<a href="https://github.com/agungwa?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public_Repos-34-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/agungwa?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/agungwa?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=2EC4B6" /></a>
+<a href="https://github.com/agungwa?tab=stars"><img alt="Stars received" src="https://img.shields.io/github/stars/agungwa?label=Stars%20Received&style=for-the-badge&logo=github&logoColor=white&color=204056" /></a>
 <a href="https://github.com/agungwa"><img alt="Account age" src="https://img.shields.io/badge/On_GitHub_Since-Feb_2019-204056?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
