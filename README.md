@@ -43,6 +43,7 @@ focus_areas:
 - 🌱 Always shipping — check out my [pinned repos](https://github.com/agungwa?tab=repositories) below
 - 💬 Ask me about **AWS, GCP, Docker, React, TypeScript, or building dev tools**
 - 🤝 Always open to **collaborate** on interesting open-source projects
+- 🎭 Also ship client & private work as [@awvanjava](https://github.com/awvanjava)
 - ⚡ Fun fact: I genuinely enjoy writing the README more than the code
 
 ---
