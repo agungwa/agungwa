@@ -110,10 +110,13 @@ focus_areas:
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agungwa&theme=tokyonight" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=agungwa&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+<img width="540" src="https://streak-stats.demolab.com/?user=agungwa&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
 
-<img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agungwa&theme=tokyonight" alt="Top languages" />
+<br/><br/>
+
+<a href="https://github.com/agungwa?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fagungwa&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white&color=181717" /></a>
+<a href="https://github.com/agungwa?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/agungwa?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=2EC4B6" /></a>
+<a href="https://github.com/agungwa"><img alt="Account age" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fagungwa&query=%24.created_at&prefix=On%20GitHub%20since%20&suffix=&style=for-the-badge&logo=github&logoColor=white&color=204056" /></a>
 
 </div>
 
@@ -193,14 +196,7 @@ focus_areas:
 
 ---
 
-<!-- WRITING -->
-## ✍️ Writing
-
-I occasionally write on my blog at **[agung.click/blog](https://agung.click/blog/)**.
-
-<!-- Update this list manually, or wire up a workflow with an RSS feed later -->
-- 📝 _[_Add your latest post title_](https://agung.click/blog/)_
-- 📝 _[_Add another post_](https://agung.click/blog/)_
+<!-- WRITING section removed -->
 
 ---
 
