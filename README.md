@@ -110,10 +110,10 @@ focus_areas:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=agungwa&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agungwa&theme=tokyonight" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=agungwa&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungwa&layout=compact&hide_border=true&theme=tokyonight&card_width=500&langs_count=8" alt="Top languages" />
+<img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agungwa&theme=tokyonight" alt="Top languages" />
 
 </div>
 
@@ -124,19 +124,48 @@ focus_areas:
 
 <div align="center">
 
-<a href="https://github.com/agungwa/Dokploy-ECR-Sync">
-  <img width="320" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=agungwa&repo=Dokploy-ECR-Sync&hide_border=true&theme=tokyonight" alt="Dokploy-ECR-Sync" />
-</a>
-<a href="https://github.com/agungwa/promptlens">
-  <img width="320" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=agungwa&repo=promptlens&hide_border=true&theme=tokyonight" alt="promptlens" />
-</a>
-
-<a href="https://github.com/agungwa/ECR-Lifecycle-Manager">
-  <img width="320" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=agungwa&repo=ECR-Lifecycle-Manager&hide_border=true&theme=tokyonight" alt="ECR-Lifecycle-Manager" />
-</a>
-<a href="https://github.com/agungwa/MeetScribe">
-  <img width="320" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=agungwa&repo=MeetScribe&hide_border=true&theme=tokyonight" alt="MeetScribe" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🐳 <a href="https://github.com/agungwa/Dokploy-ECR-Sync">Dokploy-ECR-Sync</a></h3>
+      <p><em>Sync container images from AWS ECR into Dokploy deployments.</em></p>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/agungwa/Dokploy-ECR-Sync?style=flat-square&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/agungwa/Dokploy-ECR-Sync?style=flat-square&label=updated" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🔍 <a href="https://github.com/agungwa/promptlens">promptlens</a></h3>
+      <p><em>Chrome extension — scrape images &amp; generate AI-powered creative prompts.</em></p>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/agungwa/promptlens?style=flat-square&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/agungwa/promptlens?style=flat-square&label=updated" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>♻️ <a href="https://github.com/agungwa/ECR-Lifecycle-Manager">ECR-Lifecycle-Manager</a></h3>
+      <p><em>Automate AWS ECR cleanup with a GitHub Action that prunes old images.</em></p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/agungwa/ECR-Lifecycle-Manager?style=flat-square&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/agungwa/ECR-Lifecycle-Manager?style=flat-square&label=updated" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📝 <a href="https://github.com/agungwa/MeetScribe">MeetScribe</a></h3>
+      <p><em>Meeting notes &amp; transcription assistant for focused workflows.</em></p>
+      <p>
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/agungwa/MeetScribe?style=flat-square&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/agungwa/MeetScribe?style=flat-square&label=updated" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
